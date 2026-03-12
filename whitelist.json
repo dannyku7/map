@@ -1,6 +1,10 @@
 {
   "allowed": [
     {
+      "key": "cedfd13b8915490381cc165b1c17375d",
+      "expire": "2099-09-09"
+    },
+    {
       "key": "00af9eee38aa4b8e87d19606c03ccda9",
       "expire": "2099-09-09"
     }
